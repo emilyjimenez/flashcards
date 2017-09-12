@@ -1,0 +1,9 @@
+.flashcard {
+  border: 2px solid black;
+  height: 300px;
+  width: 260px;
+}
+
+h2:hover {
+  text-decoration: underline;
+}
